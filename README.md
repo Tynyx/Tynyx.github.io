@@ -1,2 +1,0 @@
-# Tynyx.github.io
-Portfolio 
