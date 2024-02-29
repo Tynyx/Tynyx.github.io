@@ -270,7 +270,7 @@ body{
     font-size: 30px;
     padding-top:20px ;
     font-weight:500;
-    color: rgba(8, 236, 58, 0.8);
+    color: t rgba(8, 236, 58, 0.8);
 }
 .slash{
     animation-name: animateslash;
