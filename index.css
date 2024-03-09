@@ -411,7 +411,7 @@ body{
     100%{ transform : translateX(100%) }
 }
 .color{
-    color: #ff01c0;
+    color: #c70039;
     transition: all .4s ease;
 }
 #about{
