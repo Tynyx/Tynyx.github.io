@@ -521,7 +521,7 @@ body{
 }
 .cv a button{
     background: transparent;
-    border:none;
+    border: 1.5px solid #035aa6;
     padding: 15px 30px;
     color: whitesmoke;
     background: #035aa6;
@@ -538,6 +538,7 @@ body{
 .cv a button:hover{
     opacity: 1;
     transform: scale(1.05);
+    
 }
 #services{
     position: relative;
