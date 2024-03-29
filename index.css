@@ -759,8 +759,8 @@ body{
     width:84%;
     border-radius: 10px;
     transition: all .4s ease;
-    background: #035aa6; */
-}
+    background: #035aa6;
+} */
 .portfolio-header{
     height: auto;
     width: 100%;
@@ -871,6 +871,10 @@ padding-bottom: 40px;
 }
 .button{
     text-align: center;
+    display: inline-block;
+    position: relative;
+    z-index: 2;
+    color: #035aa6;
 }
     .portfolio-image img{
         height: 400px;
